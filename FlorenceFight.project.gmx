@@ -47,9 +47,7 @@
     <shader type="GLSLES">shaders\sh_underwater.shader</shader>
     <shader type="GLSLES">shaders\sh_passThrough.shader</shader>
   </shaders>
-  <fonts name="fonts">
-    <font>fonts\font0</font>
-  </fonts>
+  <fonts name="fonts"/>
   <objects name="objects">
     <objects name="Bosses">
       <objects name="DFUnleashed">
