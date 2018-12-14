@@ -36,6 +36,7 @@
         <sprite>sprites\sprDFEyeClose</sprite>
       </sprites>
       <sprite>sprites\sprDollBar</sprite>
+      <sprite>sprites\testSpr</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -47,7 +48,6 @@
     <shader type="GLSLES">shaders\sh_underwater.shader</shader>
     <shader type="GLSLES">shaders\sh_passThrough.shader</shader>
   </shaders>
-  <fonts name="fonts"/>
   <objects name="objects">
     <objects name="Bosses">
       <objects name="DFUnleashed">
