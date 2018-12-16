@@ -16,6 +16,7 @@
       <sprite>sprites\sprExperiment</sprite>
       <sprite>sprites\sprCapsuleOver</sprite>
       <sprite>sprites\sprCapsuleGlass</sprite>
+      <sprite>sprites\sprDollBar</sprite>
       <sprites name="Cat">
         <sprites name="Tentacles">
           <sprite>sprites\sprTent0</sprite>
@@ -35,7 +36,7 @@
         <sprite>sprites\sprDFEyeHalf</sprite>
         <sprite>sprites\sprDFEyeClose</sprite>
       </sprites>
-      <sprite>sprites\sprDollBar</sprite>
+      <sprite>sprites\testss</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
