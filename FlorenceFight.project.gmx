@@ -36,7 +36,6 @@
         <sprite>sprites\sprDFEyeHalf</sprite>
         <sprite>sprites\sprDFEyeClose</sprite>
       </sprites>
-      <sprite>sprites\testss</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
